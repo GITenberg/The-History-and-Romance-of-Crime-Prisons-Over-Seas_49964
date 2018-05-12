@@ -1,4 +1,8 @@
 _repo: The-History-and-Romance-of-Crime-Prisons-Over-Seas_49964
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49964-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffiths, Arthur
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3987'
     url: http://www.gutenberg.org/2009/agents/3987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49964#The-History-and-Romance-of-Crime-Prisons-Over-Seas
 gutenberg_issued: '2015-09-14'
 gutenberg_type: Text
 identifiers:
